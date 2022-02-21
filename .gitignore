@@ -1,0 +1,5 @@
+# Ignora los archivo de Mac
+.DS_Store
+DS_Store/
+# Ignora la carpeta de cache de python
+__pycache__/
